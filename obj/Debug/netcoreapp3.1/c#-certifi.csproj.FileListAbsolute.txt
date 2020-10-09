@@ -1,0 +1,11 @@
+/home/kennedy/Development/C#/c#-certifi/console/bin/Debug/netcoreapp3.1/c#-certifi
+/home/kennedy/Development/C#/c#-certifi/console/bin/Debug/netcoreapp3.1/c#-certifi.deps.json
+/home/kennedy/Development/C#/c#-certifi/console/bin/Debug/netcoreapp3.1/c#-certifi.runtimeconfig.json
+/home/kennedy/Development/C#/c#-certifi/console/bin/Debug/netcoreapp3.1/c#-certifi.runtimeconfig.dev.json
+/home/kennedy/Development/C#/c#-certifi/console/bin/Debug/netcoreapp3.1/c#-certifi.dll
+/home/kennedy/Development/C#/c#-certifi/console/bin/Debug/netcoreapp3.1/c#-certifi.pdb
+/home/kennedy/Development/C#/c#-certifi/console/obj/Debug/netcoreapp3.1/c#-certifi.csprojAssemblyReference.cache
+/home/kennedy/Development/C#/c#-certifi/console/obj/Debug/netcoreapp3.1/c#-certifi.AssemblyInfoInputs.cache
+/home/kennedy/Development/C#/c#-certifi/console/obj/Debug/netcoreapp3.1/c#-certifi.AssemblyInfo.cs
+/home/kennedy/Development/C#/c#-certifi/console/obj/Debug/netcoreapp3.1/c#-certifi.dll
+/home/kennedy/Development/C#/c#-certifi/console/obj/Debug/netcoreapp3.1/c#-certifi.pdb

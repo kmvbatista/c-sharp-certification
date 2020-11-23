@@ -1,0 +1,6 @@
+*.dll
+*.json
+*.pdb
+*.exe
+obj
+bin/Debug/*

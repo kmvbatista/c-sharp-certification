@@ -5,5 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>c__certifi</RootNamespace>
   </PropertyGroup>
-
+  <ItemGroup>
+      <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="4.5.0" />
+    </ItemGroup>
 </Project>

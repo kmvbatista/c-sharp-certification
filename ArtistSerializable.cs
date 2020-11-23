@@ -2,10 +2,10 @@ using System;
 using System.Runtime.Serialization;
 using System.Security.Permissions;
 
-[DataContract]
+[DataContract(Namespace="dfasfa")]
 class Artist 
 {
-  [DataMember]
+  [DataMember(Order=10)]
   public string Name { get; set; }
 
   public Artist(string name)
